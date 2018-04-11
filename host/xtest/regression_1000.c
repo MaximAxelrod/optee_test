@@ -276,7 +276,6 @@ static void xtest_tee_test_1001(ADBG_Case_t *c)
 	Do_ADBG_EndSubCase(cs->c, "!!!!!!!!MAXIMA  3  !!!!!!!!!!!!!!!!!!!!!!");
 	printf("!!!!!!!!MAXIMA  4  !!!!!!!!!!!!!!!!!!!!!!");
 
-EEEEEEEEEEEEEEEEEEEEEEEEEEEEeee
 
 	res = xtest_teec_open_session(&session, &pta_invoke_tests_ta_uuid, NULL,
 				      &ret_orig);
