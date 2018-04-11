@@ -68,6 +68,8 @@ void usage(char *program)
 #ifdef CFG_SECURE_DATA_PATH
 	printf("\t--sdp-basic [opts] Basic Secure Data Path test setup ('-h' for usage)\n");
 #endif
+	printf("\n\nMAXIMA help()\n\n");
+
 	printf("\n");
 }
 
@@ -80,6 +82,10 @@ int main(int argc, char *argv[])
 	char *p = (char *)glevel;
 	char *test_suite = (char *)gsuitename;
 	char *token;
+
+	printf("\n\nMAXIMA main()\n\n");
+
+	
 	ADBG_Suite_Definition_t all = { .SuiteID_p = NULL,
 				.cases = TAILQ_HEAD_INITIALIZER(all.cases), };
 
