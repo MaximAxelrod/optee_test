@@ -32,6 +32,8 @@
 #include <ta_concurrent.h>
 #include <sdp_basic.h>
 
+COMPILATION ERROR!!!!!!!!!!
+
 static void xtest_tee_test_1001(ADBG_Case_t *Case_p);
 static void xtest_tee_test_1002(ADBG_Case_t *Case_p);
 static void xtest_tee_test_1004(ADBG_Case_t *Case_p);

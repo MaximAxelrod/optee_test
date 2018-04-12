@@ -36,6 +36,11 @@
  */
 
 /* Called each time a new instance is created */
+
+
+COMPILATION ERROR!!!!!!!!!!
+
+
 TEE_Result TA_CreateEntryPoint(void)
 {
 	DMSG("TA_CreateEntryPoint");

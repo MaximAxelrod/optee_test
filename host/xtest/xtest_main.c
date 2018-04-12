@@ -28,6 +28,9 @@
 #include "crypto_common.h"
 
 
+COMPILATION ERROR!!!!!!!!!!
+
+
 ADBG_SUITE_DEFINE(benchmark);
 #ifdef WITH_GP_TESTS
 ADBG_SUITE_DEFINE(gp);

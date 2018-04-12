@@ -31,6 +31,10 @@
 #include "ta_aes_perf.h"
 #include "ta_aes_perf_priv.h"
 
+
+COMPILATION ERROR!!!!!!!!!!
+
+
 /*
  * Trusted Application Entry Points
  */

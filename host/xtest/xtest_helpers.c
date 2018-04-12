@@ -26,6 +26,10 @@
 /* Round up the even multiple of size, size has to be a multiple of 2 */
 #define ROUNDUP(v, size) (((v) + (size - 1)) & ~(size - 1))
 
+
+COMPILATION ERROR!!!!!!!!!!
+
+
 TEEC_Context xtest_teec_ctx;
 
 TEEC_Result xtest_teec_ctx_init(void)
